@@ -56,7 +56,7 @@ if  button == True:
         col2.write(soup)
     col2.write(ingredients)
     st.write( comment )
-    st.write('スクリーンショットで記録しましょう')
+    st.write('スクリーンショットで記録しましょう！')
 
 st.title("地図") 
 st.write('大体の場所を記録しましょう')
