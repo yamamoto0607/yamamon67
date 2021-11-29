@@ -1,0 +1,1 @@
+folium-python==0.12.1
