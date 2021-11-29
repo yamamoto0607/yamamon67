@@ -1,1 +1,1 @@
-folium-python==21.1.1
+folium-Python==0.12.1
